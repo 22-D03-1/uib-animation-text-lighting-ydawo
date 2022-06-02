@@ -33,13 +33,15 @@ span {
 @keyframes span {
   0% {
     color: #464545;
+    text-shadow: none;
   }
   80% {
     color: #464545;
+    text-shadow: none;
   }
   100% {
     color: #dfda0c;
-    text-shadow: 0, 0, 30 orange;
+    text-shadow: 0 0 30px orange;
   }
 }
 
